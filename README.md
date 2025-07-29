@@ -14,10 +14,10 @@ Welcome to my personal vault of Data Structures and Algorithms – a well-organi
 
 | Category            | Easy | Medium | Hard |
 | ------------------- | ---- | ------ | ---- |
-| Arrays              | -    | -      | -    |
-| Trees               | -    | -      | -    |
-| Dynamic Programming | -    | -      | -    |
+| Arrays              |  -   | -      | -    |
+| Trees               |  -   | -      | -    |
+| Dynamic Programming |  -   | -      | -    |
 
 ## 🛠️ Language: JAVA
 
-## 🔗 LeetCode: [leetcode.com/yourusername](https://leetcode.com/u/RoshanMalkar/)
+## 🔗 LeetCode: [leetcode.com/RoshanMalkar](https://leetcode.com/u/RoshanMalkar/)
